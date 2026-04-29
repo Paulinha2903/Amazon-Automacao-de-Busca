@@ -1,0 +1,20 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos do Selenium / Chrome
+*.log
+
+# Arquivos do VS Code
+.vscode/
+
+# Arquivos Excel (opcional – mantenha só se NÃO quiser subir)
+# resultado.xlsx
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
